@@ -1,0 +1,2 @@
+# ChainOfResponsabilityAutofac
+ChainOfResponsability pattern example with Dependency Injection
