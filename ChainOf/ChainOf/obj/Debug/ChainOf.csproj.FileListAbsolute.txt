@@ -1,0 +1,11 @@
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\obj\Debug\ChainOf.csprojAssemblyReference.cache
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\obj\Debug\ChainOf.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\bin\Debug\ChainOf.exe.config
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\bin\Debug\ChainOf.exe
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\bin\Debug\ChainOf.pdb
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\obj\Debug\ChainOf.exe
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\obj\Debug\ChainOf.pdb
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\bin\Debug\Autofac.dll
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\bin\Debug\Autofac.pdb
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\bin\Debug\Autofac.xml
+C:\Users\Nicolas Azzara\source\repos\ChainOf\ChainOf\obj\Debug\ChainOf.csproj.CopyComplete
